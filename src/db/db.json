@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Tasty Concrete Car",
+    "price": "888.55",
+    "category": "Music"
+  },
+  {
+    "name": "Awesome Marble Sausages",
+    "price": "109.75",
+    "category": "Games"
+  },
+  {
+    "name": "Modern Cotton Gloves",
+    "price": "451.69",
+    "category": "Automotive"
+  },
+  {
+    "name": "Unbranded Ceramic Chicken",
+    "price": "955.35",
+    "category": "Home"
+  },
+  {
+    "name": "Recycled Concrete Car",
+    "price": "334.69",
+    "category": "Outdoors"
+  },
+  {
+    "name": "Bespoke Granite Pants",
+    "price": "783.35",
+    "category": "Outdoors"
+  },
+  {
+    "name": "Tasty Granite Towels",
+    "price": "199.84",
+    "category": "Books"
+  },
+  {
+    "name": "Oriental Cotton Gloves",
+    "price": "950.89",
+    "category": "Home"
+  },
+  {
+    "name": "Frozen Bamboo Gloves",
+    "price": "22.79",
+    "category": "Jewelry"
+  },
+  {
+    "name": "Refined Cotton Car",
+    "price": "395.19",
+    "category": "Beauty"
+  }
+]
